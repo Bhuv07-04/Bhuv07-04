@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Bhuv07-04
 - 👀 I’m interested in IT and all its related contents
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like to cook:D
 
 <!---
